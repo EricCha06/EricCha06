@@ -94,7 +94,7 @@ After attending the career talk, I learned that how important Information Commun
 Assignment3️⃣
 -------
 <p align="center">
-  <a href="https://github.com/EricCha06/EricCha06/blob/main/assignment2.pdf">
+  <a href="https://github.com/EricCha06/EricCha06/blob/main/assignment3.pdf">
     <img src="https://github.com/user-attachments/assets/872251ff-2861-4783-8e04-dfe6c19a229f" width="200">
   </a>
 </p>
