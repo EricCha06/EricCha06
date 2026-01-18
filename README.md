@@ -18,8 +18,7 @@ Education
 -------
 * 🏫 **Secondary School**: SMJK CHAN WA
 * 🎓 **Pre-University**: Kolej Matrikulasi Negeri Sembilan
-* 🧠  I'm currently learning Bachelor of Computer Science (Computer Networks & Security)
-* 🎓  Bachelor of Computer Science (Data Engineering) with Honours at **UTM JB**
+* 🎓  Bachelor of Computer Science (Computer Networks & Security) with Honours at **UTM JB**
 
 Course
 -------
