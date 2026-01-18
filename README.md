@@ -44,3 +44,27 @@ Course
 
 <p align="left"> <a href="https://www.github.com/EricCha06" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a><a href="https://www.instagram.com/chaxiny/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" width="35" height="35"></a><a href="https://www.linkedin.com/in/evelyn-ang-749569266/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="35" height="35"></a></p>
 
+---
+
+### MyTeam
+<div align="middle">
+<img src="https://github.com/user-attachments/assets/d5c1da0b-dc7b-4d84-af8f-7e774d31bd70" align="middle" style="width: 100%" />
+</div>
+
+---
+
+Assignment1️⃣
+-------
+[![image](https://github.com/user-attachments/assets/300df15c-97bf-4aa5-9ce3-b52f27c5efd9)](https://drive.google.com/file/d/10RBHbyMp3ma8qC-q4LnT26eIa8Pm2BeQ/view?usp=sharing)<br>
+
+ **Topic**: VIDEO BLOG (VLOG) to UTMDigital Open Day
+ 
+ **Date**: 28 October 2025
+
+### Reflection
+I have opportunity to visit UTMDigital and learn how UTMDigital works for store the student and staff database with their industry partner. The visit helped me realize how UTMDigital improves efficiency and user experience for students and staff. I was also inspired by how technology like cloud systems and data management is applied in a real university environment. Overall, this visit increased my interest in digital transformation and motivated me to improve my skills for future careers.
+
+
+
+
+
