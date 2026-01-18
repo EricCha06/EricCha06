@@ -55,9 +55,15 @@ Course
 
 Assignment1️⃣
 -------
-[![image](https://github.com/user-attachments/assets/300df15c-97bf-4aa5-9ce3-b52f27c5efd9)](https://drive.google.com/file/d/10RBHbyMp3ma8qC-q4LnT26eIa8Pm2BeQ/view?usp=sharing)<br>
+<p align="center">
+  <a href="https://drive.google.com/file/d/10RBHbyMp3ma8qC-q4LnT26eIa8Pm2BeQ/view?usp=sharing">
+    <img src="https://github.com/user-attachments/assets/300df15c-97bf-4aa5-9ce3-b52f27c5efd9" width="200">
+  </a>
+</p>
 
-***☝️Click here to view video***<br>
+<p align="center">
+  <b><i>☝️ Click here to view video</i></b><br>
+</p>
 
  **Topic**: VIDEO BLOG (VLOG) to UTMDigital Open Day
  
@@ -66,10 +72,10 @@ Assignment1️⃣
 ### Reflection
 I have opportunity to visit UTMDigital and learn how UTMDigital works for store the student and staff database with their industry partner. The visit helped me realize how UTMDigital improves efficiency and user experience for students and staff. I was also inspired by how technology like cloud systems and data management is applied in a real university environment. Overall, this visit increased my interest in digital transformation and motivated me to improve my skills for future careers.
 
-Assignment1️2️⃣
+Assignment2️⃣
 -------
 <p align="center">
-  <a href="https://github.com/EricCha06/EricCha06/blob/main/assignment2%20(1).pdf">
+  <a href="https://github.com/EricCha06/EricCha06/blob/main/assignment2.pdf">
     <img src="https://github.com/user-attachments/assets/a839ff5d-ae15-4684-b480-ae3ee50a3127" width="200">
   </a>
 </p>
@@ -83,7 +89,78 @@ Assignment1️2️⃣
  **Date**: 20 November 2025
 
 ### Reflection
-After attending the career talk, I learned that how important Information Communication Technology (ICT) is in driving modern industries. The important is ICT is not just about coding, it also enables major operations like data analytics, cybersecurity, cloud migration, and enterprise systems such as SAP, which keep global companies connected with each other and ensure they keep running efficiently. The industry talk also motivated me to enhance soft skills so that we are able to apply the knowledge that we learned to solve the real-world problems.
+After attending the career talk, I learned that how important Information Communication Technology (ICT) is in driving modern industries. The important is ICT is not just about coding, it also enables major operations like data analytics, cybersecurity, cloud migration, and enterprise systems such as SAP. The speaker also motivated me to enhance soft skills so that we are able to keep the pace in the computer science field
+
+Assignment3️⃣
+-------
+<p align="center">
+  <a href="https://github.com/EricCha06/EricCha06/blob/main/assignment2.pdf">
+    <img src="https://github.com/user-attachments/assets/872251ff-2861-4783-8e04-dfe6c19a229f" width="200">
+  </a>
+</p>
+
+<p align="center">
+  <b><i>☝️ Click here to view poster</i></b><br>
+</p>
+
+ **Topic**: Project Management and System Development
+ 
+ **Date**: 18 December 2025
+
+### Reflection
+I learned that success in computer science is not just dependent on coding skills. I plan to develop strong foundations in system design, project management, and teamwork because these are important skills shared by the speaker. Besides that, I aim to improve my collaboration skills and participate in group projects to learn how to communicate effectively in a team. The introduction of agentic coding tools also inspires me to adapt to the latest technologies. These tools can help to improve productivity and employability.
+
+Assignment4️⃣
+-------
+<p align="center">
+  <a href="https://github.com/EricCha06/EricCha06/blob/main/assignment2.pdf">
+    <img src="https://github.com/user-attachments/assets/872251ff-2861-4783-8e04-dfe6c19a229f" width="200">
+  </a>
+</p>
+
+<p align="center">
+  <b><i>☝️ Click here to view poster</i></b><br>
+</p>
+
+ **Topic**: Project Management and System Development
+ 
+ **Date**: 18 December 2025
+
+### Reflection
+I learned that success in computer science is not just dependent on coding skills. I plan to develop strong foundations in system design, project management, and teamwork because these are important skills shared by the speaker. Besides that, I aim to improve my collaboration skills and participate in group projects to learn how to communicate effectively in a team. The introduction of agentic coding tools also inspires me to adapt to the latest technologies. These tools can help to improve productivity and employability.
+
+Project
+-------
+<p align="center">
+  <a href="https://github.com/EricCha06/EricCha06/blob/main/assignment2.pdf">
+    <img src="https://github.com/user-attachments/assets/872251ff-2861-4783-8e04-dfe6c19a229f" width="200">
+  </a>
+</p>
+
+<p align="center">
+  <b><i>☝️ Click here to view poster</i></b><br>
+</p>
+
+ **Topic**: UTM Mental Health System
+ 
+ **Date**: 19 January 2026
+
+### Reflection
+This design thinking project has inspired me about the importance of user needs and user-centered design in UTM  mental health care support. This showed that technology is not all about technical skills but more about user needs and experiences. I learned that design skills, communication, and teamwork abilities is important in the team to complete the project.
+
+Pc Assemble
+-------
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/cb3257f4-4a64-4e5e-b213-77824c2e3347" width="200">
+</p>
+
+ **Topic**: PC Assemble lab
+ 
+ **Date**: 3 November 2025
+
+### Reflection
+After attending the PC Assemble Lab, I got some experience with PC hardware. I learned the function of each piece of hardware and the steps to assemble the PC. I was handling components carefully and following procedures by lab assistance to avoid hardware damage.
+
 
 
 
