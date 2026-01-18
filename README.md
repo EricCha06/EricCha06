@@ -5,6 +5,9 @@ About Me
 -------
 
 I am a computer science student with interests in web development, system design ,hackathon and CTF competition.
+<div align="right">
+<img src="https://github.com/EricCha06/EricCha06/blob/main/6296226175822534158.jpg" align="right" style="width: 12%" />
+</div>
 
 * 🌍  I'm based in Seremban,Negeri Sembilan
 * 👨  **Age**:19 years old
@@ -16,7 +19,16 @@ Education
 * 🏫 **Secondary School**: SMJK CHAN WA
 * 🎓 **Pre-University**: Kolej Matrikulasi Negeri Sembilan
 * 🧠  I'm currently learning Bachelor of Computer Science (Computer Networks & Security)
-* 🎓  Bachelor of Computer Science (Data Engineering) with Honours at **UTM JB**  
+* 🎓  Bachelor of Computer Science (Data Engineering) with Honours at **UTM JB**
+
+Course
+-------
+* Discrete Structure
+* Programming Technique 1
+* Technology & Information System
+* Digital logic
+* Integrity and Anti-Corruption
+  
 ### Skills
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a>
