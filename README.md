@@ -68,9 +68,7 @@ I have opportunity to visit UTMDigital and learn how UTMDigital works for store 
 
 Assignment1️2️⃣
 -------
-<div align="middle">
-<img src="https://github.com/user-attachments/assets/111ea151-626e-4e46-a0ce-f0e0547e4198" align="right" style="width: 12%" />
-</div>
+[![image](https://github.com/user-attachments/assets/a839ff5d-ae15-4684-b480-ae3ee50a3127)](https://drive.google.com/file/d/10RBHbyMp3ma8qC-q4LnT26eIa8Pm2BeQ/view?usp=sharing)<br>
 
 ***☝️Click here to view poster***<br>
 
