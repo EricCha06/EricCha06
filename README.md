@@ -6,14 +6,14 @@ About Me
 
 I am a computer science student with interests in web development, system design ,hackathon and CTF competition.
 <div align="right">
-<img src="https://github.com/EricCha06/EricCha06/blob/main/6296226175822534158.jpg" align="right" style="width: 12%" />
+<img src="https://github.com/user-attachments/assets/111ea151-626e-4e46-a0ce-f0e0547e4198" align="right" style="width: 12%" />
 </div>
 
 * 🌍  I'm based in Seremban,Negeri Sembilan
 * 👨  **Age**:19 years old
 * 🎂  **Birthday**: 24 September 
 * ✉️  You can contact me at [xinyuancha88@gmail.com](mailto:xinyuancha88@gmail.com)
-  
+
 Education
 -------
 * 🏫 **Secondary School**: SMJK CHAN WA
@@ -23,11 +23,17 @@ Education
 
 Course
 -------
-* Discrete Structure
-* Programming Technique 1
-* Technology & Information System
-* Digital logic
-* Integrity and Anti-Corruption
+* 📊Discrete Structure
+* 💻Programming Technique 1
+* 💾Technology & Information System
+* 📺Digital logic
+* ❤️Integrity and Anti-Corruption
+
+🌟Honors and awards🌟
+-------
+* National Robotic competition 
+* UTM Robocon Autocar Challenge
+* Malaysia Techlympics 2025
   
 ### Skills
 <p align="left">
