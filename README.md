@@ -68,16 +68,22 @@ I have opportunity to visit UTMDigital and learn how UTMDigital works for store 
 
 Assignment1️2️⃣
 -------
-[![image](https://github.com/user-attachments/assets/a839ff5d-ae15-4684-b480-ae3ee50a3127)](https://drive.google.com/file/d/10RBHbyMp3ma8qC-q4LnT26eIa8Pm2BeQ/view?usp=sharing)<br>
+<p align="center">
+  <a href="https://github.com/EricCha06/EricCha06/blob/main/assignment2%20(1).pdf">
+    <img src="https://github.com/user-attachments/assets/a839ff5d-ae15-4684-b480-ae3ee50a3127" width="200">
+  </a>
+</p>
 
-***☝️Click here to view poster***<br>
+<p align="center">
+  <b><i>☝️ Click here to view poster</i></b><br>
+</p>
 
- **Topic**: VIDEO BLOG (VLOG) to UTMDigital Open Day
+ **Topic**: PPG Industry Talk 1
  
- **Date**: 28 October 2025
+ **Date**: 20 November 2025
 
 ### Reflection
-I have opportunity to visit UTMDigital and learn how UTMDigital works for store the student and staff database with their industry partner. The visit helped me realize how UTMDigital improves efficiency and user experience for students and staff. I was also inspired by how technology like cloud systems and data management is applied in a real university environment. Overall, this visit increased my interest in digital transformation and motivated me to improve my skills for future careers.
+After attending the career talk, I learned that how important Information Communication Technology (ICT) is in driving modern industries. The important is ICT is not just about coding, it also enables major operations like data analytics, cybersecurity, cloud migration, and enterprise systems such as SAP, which keep global companies connected with each other and ensure they keep running efficiently. The industry talk also motivated me to enhance soft skills so that we are able to apply the knowledge that we learned to solve the real-world problems.
 
 
 
