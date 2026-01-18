@@ -100,7 +100,7 @@ Assignment3️⃣
 </p>
 
 <p align="center">
-  <b><i>☝️ Click here to view poster</i></b><br>
+  <b><i>☝️ Click here to view report</i></b><br>
 </p>
 
  **Topic**: Project Management and System Development
@@ -133,12 +133,18 @@ Project
 -------
 <p align="center">
   <a href="https://github.com/EricCha06/EricCha06/blob/main/assignment2.pdf">
-    <img src="https://github.com/user-attachments/assets/872251ff-2861-4783-8e04-dfe6c19a229f" width="200">
+    <img src="https://github.com/user-attachments/assets/13d223b0-1991-4006-b3a2-1a0ab4800f48" width="200">
   </a>
 </p>
 
 <p align="center">
-  <b><i>☝️ Click here to view poster</i></b><br>
+  <b><i>☝️ Click here to view video</i></b><br>
+</p>
+
+<p align="center">
+  <a href="https://github.com/EricCha06/EricCha06/blob/main/assignment2.pdf">
+    <b><i>Click here to view report</i></b><br>
+  </a>
 </p>
 
  **Topic**: UTM Mental Health System
