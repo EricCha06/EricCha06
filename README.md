@@ -57,6 +57,23 @@ Assignment1️⃣
 -------
 [![image](https://github.com/user-attachments/assets/300df15c-97bf-4aa5-9ce3-b52f27c5efd9)](https://drive.google.com/file/d/10RBHbyMp3ma8qC-q4LnT26eIa8Pm2BeQ/view?usp=sharing)<br>
 
+***☝️Click here to view video***<br>
+
+ **Topic**: VIDEO BLOG (VLOG) to UTMDigital Open Day
+ 
+ **Date**: 28 October 2025
+
+### Reflection
+I have opportunity to visit UTMDigital and learn how UTMDigital works for store the student and staff database with their industry partner. The visit helped me realize how UTMDigital improves efficiency and user experience for students and staff. I was also inspired by how technology like cloud systems and data management is applied in a real university environment. Overall, this visit increased my interest in digital transformation and motivated me to improve my skills for future careers.
+
+Assignment1️2️⃣
+-------
+<div align="middle">
+<img src="https://github.com/user-attachments/assets/111ea151-626e-4e46-a0ce-f0e0547e4198" align="right" style="width: 12%" />
+</div>
+
+***☝️Click here to view poster***<br>
+
  **Topic**: VIDEO BLOG (VLOG) to UTMDigital Open Day
  
  **Date**: 28 October 2025
