@@ -69,7 +69,7 @@ Assignment1️⃣
  **Date**: 28 October 2025
 
 ### Reflection
-I have opportunity to visit UTMDigital and learn how UTMDigital works for store the student and staff database with their industry partner. The visit helped me realize how UTMDigital improves efficiency and user experience for students and staff. I was also inspired by how technology like cloud systems and data management is applied in a real university environment. Overall, this visit increased my interest in digital transformation and motivated me to improve my skills for future careers.
+I have the opportunity to visit UTMDigital and learn how UTMDigital works to store the student and staff database with their industry partner. The talk gave me some experience about how UTMDigital improves user experience for students and staff. I also learned how cloud systems and data management work. This visit increased my interest in computer science and motivated me to improve my skills for future careers.
 
 Assignment2️⃣
 -------
