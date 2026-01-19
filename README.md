@@ -131,7 +131,7 @@ I learned that success in computer science is not just dependent on coding skill
 Project
 -------
 <p align="center">
-  <a href="https://github.com/EricCha06/EricCha06/blob/main/assignment2.pdf">
+  <a href="https://drive.google.com/file/d/19EevcxfiFzSbD8Ed9FSQF2PqIjFJwBPH/view?usp=sharing">
     <img src="https://github.com/user-attachments/assets/13d223b0-1991-4006-b3a2-1a0ab4800f48" width="200">
   </a>
 </p>
@@ -141,7 +141,7 @@ Project
 </p>
 
 <p align="center">
-  <a href="https://github.com/EricCha06/EricCha06/blob/main/reportTIS.pdf">
+  <a href="https://github.com/EricCha06/EricCha06/blob/main/DESIGN%20THINKING%20PROJECT%20REPORT.pdf">
     <b><i>Click here to view report</i></b><br>
   </a>
 </p>
