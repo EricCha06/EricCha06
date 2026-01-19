@@ -141,7 +141,7 @@ Project
 </p>
 
 <p align="center">
-  <a href="https://github.com/EricCha06/EricCha06/blob/main/assignment2.pdf">
+  <a href="https://github.com/EricCha06/EricCha06/blob/main/reportTIS.pdf">
     <b><i>Click here to view report</i></b><br>
   </a>
 </p>
