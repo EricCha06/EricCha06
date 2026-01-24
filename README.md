@@ -112,7 +112,7 @@ I learned that success in computer science is not just dependent on coding skill
 Assignment4️⃣
 -------
 <p align="center">
-  <a href="https://github.com/EricCha06/EricCha06/blob/main/assignment2.pdf">
+  <a href="https://github.com/EricCha06/EricCha06/blob/main/ASSIGNMENT%204%20CLARITY%20TECHWORKS.pdf">
     <img src="https://github.com/user-attachments/assets/b7158c51-3fbd-4aa3-8ade-ae2a12f67d1e" width="200">
   </a>
   <a href="https://github.com/EricCha06/EricCha06/blob/main/ASSIGNMENT%204%20AIRASIA.pdf">
@@ -124,12 +124,12 @@ Assignment4️⃣
   <b><i>☝️ Click here to view poster</i></b><br>
 </p>
 
- **Topic**: Project Management and System Development
+ **Topic**: AirAsia,Clarity Techworks
  
- **Date**: 18 December 2025
+ **Date**: 29 January 2026
 
 ### Reflection
-I learned that success in computer science is not just dependent on coding skills. I plan to develop strong foundations in system design, project management, and teamwork because these are important skills shared by the speaker. Besides that, I aim to improve my collaboration skills and participate in group projects to learn how to communicate effectively in a team. The introduction of agentic coding tools also inspires me to adapt to the latest technologies. These tools can help to improve productivity and employability.
+The industry talk inspires me that technical knowledge alone is not enough to succeed in the IT industry. Learning basic programming skills is important. For example, I must learn soft skills such as communication, teamwork, time management, and adaptability. The computer science field changes quickly, so continuous learning and self-learning are important to follow the step.
 
 Project
 -------
@@ -137,10 +137,13 @@ Project
   <a href="https://drive.google.com/file/d/19EevcxfiFzSbD8Ed9FSQF2PqIjFJwBPH/view?usp=sharing">
     <img src="https://github.com/user-attachments/assets/13d223b0-1991-4006-b3a2-1a0ab4800f48" width="200">
   </a>
+  <a href="https://drive.google.com/file/d/19EevcxfiFzSbD8Ed9FSQF2PqIjFJwBPH/view?usp=sharing">
+    <img src="https://github.com/user-attachments/assets/13d223b0-1991-4006-b3a2-1a0ab4800f48" width="200">
+  </a>
 </p>
 
 <p align="center">
-  <b><i>☝️ Click here to view video</i></b><br>
+  <b><i>☝️ Click here to view video and presentation</i></b><br>
 </p>
 
 <p align="center">
