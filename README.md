@@ -113,7 +113,10 @@ Assignment4️⃣
 -------
 <p align="center">
   <a href="https://github.com/EricCha06/EricCha06/blob/main/assignment2.pdf">
-    <img src="https://github.com/user-attachments/assets/872251ff-2861-4783-8e04-dfe6c19a229f" width="200">
+    <img src="https://github.com/user-attachments/assets/b7158c51-3fbd-4aa3-8ade-ae2a12f67d1e" width="200">
+  </a>
+  <a href="https://github.com/EricCha06/EricCha06/blob/main/assignment2.pdf">
+    <img src="https://github.com/user-attachments/assets/34926303-bc19-4ccc-9e4b-61c5a062df10" width="200">
   </a>
 </p>
 
