@@ -137,8 +137,8 @@ Project
   <a href="https://drive.google.com/file/d/19EevcxfiFzSbD8Ed9FSQF2PqIjFJwBPH/view?usp=sharing">
     <img src="https://github.com/user-attachments/assets/13d223b0-1991-4006-b3a2-1a0ab4800f48" width="200">
   </a>
-  <a href="https://drive.google.com/file/d/19EevcxfiFzSbD8Ed9FSQF2PqIjFJwBPH/view?usp=sharing">
-    <img src="https://github.com/user-attachments/assets/13d223b0-1991-4006-b3a2-1a0ab4800f48" width="200">
+  <a href="https://drive.google.com/file/d/1mVzwXd3W4yfJKVYgpoePdHyXHrA5pVZx/view?usp=sharing">
+    <img src="https://github.com/user-attachments/assets/9fbccf43-48a3-4e93-bf2d-1cab3db335da" width="200">
   </a>
 </p>
 
